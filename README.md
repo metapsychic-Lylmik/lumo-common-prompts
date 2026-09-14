@@ -1,8 +1,15 @@
 # Lumo Common Prompts
 
+
 > **Stop retyping the same instructions.** Adds a one-click prompt library to Lumo — 26 curated prompts for writing, analysis, research, coding, and learning.
 
 A browser userscript that adds a **"Common Prompts"** button to Lumo conversations. Instead of retyping the same instructions, click a button and select a pre-written prompt.
+
+<img width="600" height="338" alt="Screenshot From 2026-09-14 16-49-59" src="https://github.com/user-attachments/assets/189397ff-2d7c-4128-966e-f70edb3a04a3" />
+<img width="600" height="380" alt="Screenshot From 2026-09-14 16-51-09" src="https://github.com/user-attachments/assets/f2d9b018-3fd3-4f85-82d9-0db2bf318495" />
+
+
+
 
 The script operates at the webpage level, after the browser has handled its normal communication with Lumo. It does not interfere with the encryption used for that communication.
 
