@@ -5,9 +5,10 @@
 
 A browser userscript that adds a **"Common Prompts"** button to Lumo conversations. Instead of retyping the same instructions, click a button and select a pre-written prompt.
 
-<img width="600" height="338" alt="Screenshot From 2026-09-14 16-49-59" src="https://github.com/user-attachments/assets/189397ff-2d7c-4128-966e-f70edb3a04a3" />
-<img width="600" height="380" alt="Screenshot From 2026-09-14 16-51-09" src="https://github.com/user-attachments/assets/f2d9b018-3fd3-4f85-82d9-0db2bf318495" />
-
+<p align="center">
+  <img width="405" height="228" alt="Screenshot From 2026-09-14 16-49-59" src="https://github.com/user-attachments/assets/189397ff-2d7c-4128-966e-f70edb3a04a3" />
+  <img width="360" height="228" alt="Screenshot From 2026-09-14 16-51-09" src="https://github.com/user-attachments/assets/f2d9b018-3fd3-4f85-82d9-0db2bf318495" />
+</p>
 
 
 
