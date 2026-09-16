@@ -105,11 +105,12 @@ The complete source code is available in this repository, so you can inspect exa
 
 ## Installing the Script
 
-## One-Click Install
+
+### One-Click Install
 
 If you have Tampermonkey or Violentmonkey installed, click this link to install:
 
-**[Install Lumo Time Context](https://raw.githubusercontent.com/metapsychic-Lylmik/lumo-time-context/main/lumo-time-context.user.js)**
+**[Install Lumo Common Prompts](https://raw.githubusercontent.com/metapsychic-Lylmik/lumo-common-prompts/main/lumo-common-prompts.user.js)**
 
 ### Standard Installation
 
